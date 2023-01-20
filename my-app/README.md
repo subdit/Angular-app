@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Styling
+
+Using bulma.io: https://bulma.io/
+Run ``npm install bulma` then @import "bulma/css/bulma.css" in style.css as global styling.
+
+## Hosting platform
+
+Hosting website on Now.sh:https://vercel.com/
+Run `now.login` then in terminal Run `now` to connect and launch your app on Vercel.
